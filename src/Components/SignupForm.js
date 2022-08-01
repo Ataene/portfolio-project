@@ -7,7 +7,7 @@ function SignupForm() {
             <div className="col" style={{color: 'white'}}>
                 <h1 className="display-4 fw-bold text-warning">Contact Info</h1>
                 <h4 className="col-lg-10 fs-4"><i className="fas fa-address-card"></i> Address</h4>
-                <p>Calgary, Alberta, Canda</p>
+                <p>Calgary, Alberta, Canada</p>
                 <h4 className="col-lg-10 fs-4"><i className="far fa-envelope"></i> Email</h4>
                 <p>greatspiration@yahoo.com</p>
                 <h4 className="col-lg-10 fs-4 text-success"><i className="fas fa-phone"></i> Phone</h4>
